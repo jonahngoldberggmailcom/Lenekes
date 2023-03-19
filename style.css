@@ -2,5 +2,33 @@
     width:100%;
     text-align: center;
     position: sticky;
-    color:black;
+    font-weight:bold;
+    background-color: lightseagreen;
+}
+h1{
+    display:inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 78px;
+   
+}
+#frogtinoo{
+    color: red;
+}
+#froggyquentinoo{
+    color: yellow;
+}
+#queny{
+    color: blue;
+}
+#quentinoofroggy{
+    color: lime;
+}
+#froggy{
+    color: magenta;
+}
+#x{
+    color: blueviolet;
+}
+#quentinoo{
+    color: aqua;
 }
