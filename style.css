@@ -38,6 +38,10 @@ h1{
 #Yaas{
     color:brown;
 }
-#center {
-  text-align: center;
+#center{
+  text-align:center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:30%
 }
